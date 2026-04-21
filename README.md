@@ -30,19 +30,6 @@ Se validan escenarios como:
 - Actualización de información  
 - Eliminación de registros
 
-## Estructura del proyecto
-tests/
-│
-├── python/
-│ ├── test_crear_producto.py
-│ ├── test_actualizar_producto.py
-│ └── test_eliminar_producto.py
-│
-├── javascript/
-│ ├── testCreateProduct.js
-│ ├── testUpdateProduct.js
-│ └── testDeleteProduct.js
-
 ## Resultados esperados
 - Ejecución exitosa de todos los casos de prueba
 - Validación de comportamiento esperado del sistema
@@ -57,10 +44,8 @@ Se incluyen archivos con los casos de prueba documentados:
 
 Aplicar la metodología TDD utilizando diferentes tecnologías, con el fin de mejorar la calidad del software y garantizar la correcta implementación de funcionalidades.
 
-## Estado del proyecto
-
+Estado del proyecto:
 Proyecto académico en desarrollo
 
-Autor
-
+## Autor
 Vanessa Palacios
